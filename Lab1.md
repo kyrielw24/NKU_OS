@@ -422,4 +422,4 @@ for(int i =0;i<=STACKFRAME_DEPTH;i++)
 
 <img src="C:\Users\Kyrie\AppData\Roaming\Typora\typora-user-images\image-20221011232242096.png" alt="image-20221011232242096" style="zoom:50%;" />
 
-## GitHub地址：https://github.com/kyrielw24/OS.git
+## GitHub地址：https://github.com/kyrielw24/NKU_OS.git
